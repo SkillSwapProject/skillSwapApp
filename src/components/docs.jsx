@@ -1,6 +1,6 @@
 import React from "react"
 
-export const docs = () => {
+export const Docs = () => {
     
     return <>
     <h1>docs</h1>
