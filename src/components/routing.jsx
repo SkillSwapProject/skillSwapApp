@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter, Route, Routes } from "react-router"
 import { Home } from './Home';
 import { Docs } from './docs';
-import { Form } from './form';
+import { Form } from './Form';
 import { Search } from './search';
 import { Setting } from './setting';
 
