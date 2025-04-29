@@ -1,10 +1,10 @@
 import { Route, Routes } from "react-router"
 import { Home } from './Home';
 import { Docs } from './Docs';
-import { Form } from './Form';
 import { Search } from './Search';
 import { Setting } from './Setting';
 import { AdminPanel } from "./AdminPanel";
+import { Form } from "./Form";
 
 export const Routing = () => {
     return <>
