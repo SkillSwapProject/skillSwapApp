@@ -11,9 +11,9 @@ export const Nav = () => {
 
             <NavLink to='Docs' className='link'>Docs</NavLink>
 
-            <NavLink to='search' className='link'>Search</NavLink>
+            <NavLink to='Search' className='link'>Search</NavLink>
 
-            <NavLink to='setting' className='link'>Setting</NavLink>
+            <NavLink to='Setting' className='link'>Setting</NavLink>
 
             <NavLink to='AdminPanel' className='link'>Admin</NavLink>
         </div>
